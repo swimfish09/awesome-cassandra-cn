@@ -1,8 +1,11 @@
 # Cassandra 资源大全中文版
+
 ## 文档
+
 - Cassandra
 - java driver
 - CQL
+
 ## 工具
 ### 关系数据库与cassandra
 
@@ -10,10 +13,12 @@
 
 ### 大数据与cassandra
 
+
 ### 监控与管理
 
 
 ## 图书推荐
+
 - Cassandra in action
 - Cassandra High Availability
 - Cassandra Data Modeling & Analysis
